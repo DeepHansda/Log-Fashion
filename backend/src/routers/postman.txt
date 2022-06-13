@@ -1,0 +1,71 @@
+ {"allCategories":[
+        {
+            "categoryName": "jackets",
+            "productList": [
+                {       "title": "dsdsd",
+                        "price": "33",
+                        "des": "ytryytr",
+                        "img": "eeee"
+                    
+                }
+            ]
+        },
+
+           {
+            "categoryName": "tshirts",
+            "productList": [
+                {       "title": "dsdsd",
+                        "price": "33",
+                        "des": "ytryytr",
+                        "img": "eeee"
+                    
+                },
+
+                {       "title": "dsdsd",
+                        "price": "33",
+                        "des": "ytryytr",
+                        "img": "eeee"
+                    
+                }
+            ]
+        },
+
+           {
+            "categoryName": "shirts",
+            "productList": [
+                {       "title": "dsdsd",
+                        "price": "33",
+                        "des": "ytryytr",
+                        "img": "eeee"
+                    
+                },
+
+                {       "title": "rrrrr",
+                        "price": "33",
+                        "des": "ytryytr",
+                        "img": "eeee"
+                    
+                }
+            ]
+        },
+
+           {
+            "categoryName": "jandt",
+            "productList": [
+                {       "title": "dsdsd",
+                        "price": "33",
+                        "des": "ytryytr",
+                        "img": "eeee"
+                    
+                },
+
+                {       "title": "dsdsd",
+                        "price": "33",
+                        "des": "ytryytr",
+                        "img": "eeee"
+                    
+                }
+            ]
+        }
+
+]}
